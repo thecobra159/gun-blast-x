@@ -1,0 +1,40 @@
+Initialize engine version: 5.6.1f1 (2860b30f0b54)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) HD Graphics 5500 (ID=0x1616)
+    Vendor:   Intel
+    VRAM:     2111 MB
+    Driver:   20.19.15.4531
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\theco\Desktop\Run and Gun Tutorial Final\Run and Gun Tutorial\teste_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\theco\Desktop\Run and Gun Tutorial Final\Run and Gun Tutorial\teste_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\theco\Desktop\Run and Gun Tutorial Final\Run and Gun Tutorial\teste_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\theco\Desktop\Run and Gun Tutorial Final\Run and Gun Tutorial\teste_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\theco\Desktop\Run and Gun Tutorial Final\Run and Gun Tutorial\teste_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\theco\Desktop\Run and Gun Tutorial Final\Run and Gun Tutorial\teste_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\theco\Desktop\Run and Gun Tutorial Final\Run and Gun Tutorial\teste_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\theco\Desktop\Run and Gun Tutorial Final\Run and Gun Tutorial\teste_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.297 seconds
+Platform assembly: C:\Users\theco\Desktop\Run and Gun Tutorial Final\Run and Gun Tutorial\teste_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\theco\Desktop\Run and Gun Tutorial Final\Run and Gun Tutorial\teste_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 2.550527 ms
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.361495 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 889.
+Total: 0.443904 ms (FindLiveObjects: 0.054312 ms CreateObjectMapping: 0.035922 ms MarkObjects: 0.337846 ms  DeleteObjects: 0.014967 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.877545 ms
+
+Unloading 49 unused Assets to reduce memory usage. Loaded Objects now: 913.
+Total: 0.640625 ms (FindLiveObjects: 0.099643 ms CreateObjectMapping: 0.050463 ms MarkObjects: 0.383177 ms  DeleteObjects: 0.106058 ms)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 232c -> priority: 1 
+  Thread -> id: 36b0 -> priority: 1 

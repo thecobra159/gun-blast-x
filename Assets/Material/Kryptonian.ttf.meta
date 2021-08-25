@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 044738a802bb6c445906a7525866e142
+timeCreated: 1498536164
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Kryptonian
+  fontNames:
+  - Kryptonian
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
